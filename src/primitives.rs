@@ -71,3 +71,6 @@ fn main() {
         println!("array[{}]: {}", i, array[i]);
     }
 }
+
+// how do I export functions from a module in Rust?
+// https://stackoverflow.com/questions/28372918/how-do-i-export-functions-from-a-module-in-rust
